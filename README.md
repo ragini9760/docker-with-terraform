@@ -3,7 +3,7 @@ Docker installed and running on your system.
 Terraform installed.
 
 Directory structure:
-nginx-terraform/
+docker-with-terraform
 │
 ├── provider.tf
 ├── main.tf
